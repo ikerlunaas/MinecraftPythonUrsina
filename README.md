@@ -2,7 +2,7 @@
 · You'll need to have installed `Ursina` to run this python file.
 (and have python)
 
-# HOW TO URSINA 📜
+# HOW TO INSTALL URSINA 📜
 1. Open your terminal
 2. Then copy and paste `pip install ursina`
 3. And run the code!

@@ -13,4 +13,5 @@
 3. Then type `python3 game.py`or `python game.py`(if you have renamed the file, change `game.py` and put the name of the file).
 4. and you're done!
 
-5. @ikerlunaas 12/10/23
+
+@ikerlunaas 12/10/23
